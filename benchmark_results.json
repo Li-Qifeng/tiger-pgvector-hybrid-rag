@@ -1,0 +1,5 @@
+{
+  "pure_vector_exec_ms": 16.366,
+  "filtered_vector_exec_ms": 1.13,
+  "hybrid_decay_exec_ms": 21.214
+}
